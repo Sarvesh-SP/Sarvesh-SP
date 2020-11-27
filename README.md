@@ -1,4 +1,7 @@
+<meta property="og:description" content="Sarvesh SP is a Front-End Developer from Udupi, India. Sarvesh is currenty pursuing his BE in Computer Science. Feel free to contact Sarvesh" />
+<meta name="Keywords" content="sarvesh sp sarveshsp Sarvesh Sarveshsp SARVESHSP SARVESH sarveshsp spsarvesh sarveshsp.com www.sarveshsp.com"/>
 ### Hi there 👋
+
 
 <!--
 **Sarvesh-SP/Sarvesh-SP** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,8 +17,15 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<meta property="og:description" content="Sarvesh SP is a Front-End Developer from Udupi, India. Sarvesh is currenty pursuing his BE in Computer Science. Feel free to contact Sarvesh" />
- <meta name="Keywords" content="sarvesh sp sarveshsp Sarvesh Sarveshsp SARVESHSP SARVESH sarveshsp spsarvesh sarveshsp.com www.sarveshsp.com"/>
+<br>
+<br>
+<br>
+Hi, I'm [Sarvesh SP], a Front-End Developer, UI/UX desginer 🚀 from India, currently, I'm pursuing my BE in Computer Science 🙍🏽‍♂️ .  Beside's programming, I love Gaming.
+<br>
+<br>
+ <img alt="GIF" src="https://github.com/adithyapaib/adithyapaib/blob/master/code.gif?raw=true" width="400" height="256" />
+ <br>
+ <br>
 
 ### 📈 My GitHub Stats:
 
