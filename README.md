@@ -14,7 +14,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
+<meta property="og:description" content="Sarvesh SP is a Front-End Developer from Udupi, India. Sarvesh is currenty pursuing his BE in Computer Science. Feel free to contact Sarvesh" />
+ <meta name="Keywords" content="sarvesh sp sarveshsp Sarvesh Sarveshsp SARVESHSP SARVESH sarveshsp spsarvesh sarveshsp.com www.sarveshsp.com"/>
 
 ### 📈 My GitHub Stats:
 
