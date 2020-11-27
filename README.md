@@ -1,6 +1,6 @@
 <meta property="og:description" content="Sarvesh SP is a Front-End Developer from Udupi, India. Sarvesh is currenty pursuing his BE in Computer Science. Feel free to contact Sarvesh" />
 <meta name="Keywords" content="sarvesh sp sarveshsp Sarvesh Sarveshsp SARVESHSP SARVESH sarveshsp spsarvesh sarveshsp.com www.sarveshsp.com"/>
-### Hi there 👋
+Hey there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
 
 <!--
@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 <br>
 <br>
 <br>
-Hi, I'm [Sarvesh SP], a Front-End Developer, UI/UX desginer 🚀 from India, currently, I'm pursuing my BE in Computer Science 🙍🏽‍♂️ .  Beside's programming, I love Gaming.
+Hi, I'm Sarvesh SP, a Front-End Developer, UI/UX desginer 🚀 from India, currently, I'm pursuing my BE in Computer Science 🙍🏽‍♂️ .  Beside's programming, I love Gaming.
 <br>
 <br>
  <img alt="GIF" src="https://github.com/adithyapaib/adithyapaib/blob/master/code.gif?raw=true" width="400" height="256" />
