@@ -35,7 +35,6 @@ Hi, I'm Sarvesh SP, a Front-End Developer from India, currently, I'm pursuing my
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Sarvesh-SP&show_icons=true&theme=react)](https://github.com/Sarvesh-SP/github-readme-stats)
  <br>
  <br>
-  
  <p align="center">
   <b>GitHub Visitors</b>
   <br>
