@@ -32,7 +32,7 @@ Hi, I'm Sarvesh, a Front-End Developer from India, currently I'm pursuing my BE 
 
 ![Sarvesh's github stats](https://github-readme-stats.vercel.app/api?username=Sarvesh-SP&count_private=true&show_icons=true&theme=react)
 <p>
- <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sarvesh-SP&layout=compact&theme=material-palenight" />
+ <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sarvesh-SP&layout=compact&theme=react" />
 </p>
  <p align="center">
   <b>GitHub Visitors</b>
