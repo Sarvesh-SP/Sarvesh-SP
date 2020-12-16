@@ -18,9 +18,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<br>
-<br>
-<br>
+
 Hi, I'm Sarvesh, a passionate self-taught frontEnd web developer from India, currently I'm pursuing my BE in Computer Science .  Beside's programming, I love Gaming.
 <br>
 <br>
