@@ -19,9 +19,11 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-Hi, I'm Sarvesh, a passionate self-taught frontEnd web developer from India, currently I'm pursuing my BE in Computer Science .  Beside's programming, I love Gaming.
-<img align="right" alt="GIF" src="https://github.com/adithyapaib/adithyapaib/blob/master/code.gif?raw=true" width="400" height="256" />
 ### 📈 My GitHub Stats:
+Hi, I'm Sarvesh, a passionate self-taught frontEnd web developer from India, currently I'm pursuing my BE in Computer Science .  Beside's programming, I love Gaming.
+<p>
+<img alt="GIF" src="https://github.com/adithyapaib/adithyapaib/blob/master/code.gif?raw=true" width="400" height="256" />
+</p>
 
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=Sarvesh-SP&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" alt="sarveshSP's Github Stats">
 </br>
