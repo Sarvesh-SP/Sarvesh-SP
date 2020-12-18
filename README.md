@@ -18,12 +18,31 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+<h2 align="center">Detail of my current knowledge</h2>
 
-### 📈 My GitHub Stats:
-Hi, I'm Sarvesh, a passionate self-taught frontEnd web developer from India, currently I'm pursuing my BE in Computer Science .  Beside's programming, I love Gaming.
+```javascript
+const aboutMe = {
+    pronouns: "He" | "Him",
+    askMeAbout: ["web dev", "tech", "game"],
+    languages: ["Python", "Sass", "C++", "C", "Java"],
+    technologies: {
+        frontEnd: {
+            ui: ["React"],
+            linter: ["eslint"],
+            js: ["Vue", "Angular"],
+            css: ["bootstrap", "sass"]
+        },
+        backEnd: ["Java", "Python"],
+        databases: ["MySql", "oracle"],
+    }
+};
+```
 <p>
 <img alt="GIF" src="https://github.com/adithyapaib/adithyapaib/blob/master/code.gif?raw=true" width="400" height="256" />
 </p>
+<br>
+
+### Profile Stats:
 
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=Sarvesh-SP&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" alt="sarveshSP's Github Stats">
 </br>
