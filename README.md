@@ -37,7 +37,7 @@ const aboutMe = {
             css: ["bootstrap", "sass"]
         },
         backEnd: ["Java", "Python"],
-        databases: ["MySql", "oracle"],
+        databases: ["Postgres", "MySql", "oracle"],
     }
 };
 ```
