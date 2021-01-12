@@ -28,7 +28,7 @@ Here are some ideas to get you started:
 const aboutMe = {
     pronouns: "He" | "Him",
     askMeAbout: ["web dev", "tech", "gamez"],
-    languages: ["Python", "Sass", "C++", "C", "Java"],
+    languages: ["Python", "Sass", "C++", "C", "Java", "Tcl"],
     technologies: {
         frontEnd: {
             ui: ["React"],
