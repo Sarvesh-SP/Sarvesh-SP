@@ -66,7 +66,7 @@ const aboutMe = {
 </br>
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Sarvesh-SP&langs_count=20&layout=compact&text_color=daf7dc&bg_color=151515)](https://github.com/Sarvesh-SP/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Sarvesh-SP&langs_count=20&layout=compact&text_color=daf7dc&bg_color=151515)](https://github-readme-stats-git-master.sarvesh-sp.vercel.app/)
  <p align="center">
   <b>GitHub Visitors</b>
   <br>
