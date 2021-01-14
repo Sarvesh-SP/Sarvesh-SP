@@ -61,11 +61,16 @@ const aboutMe = {
 <br>
 
 ### Profile Stats:
+<table width="100%">
+  <tr>
+    <td>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Sarvesh-SP&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" /> </td>
+ <td> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sarvesh-SP&langs_count=10&layout=compact&text_color=daf7dc&bg_color=151515)"/> </td>
+  </tr>
+ <table>
+  
 
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=Sarvesh-SP&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" alt="sarveshSP's Github Stats">
-</br>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Sarvesh-SP&langs_count=10&layout=compact&text_color=daf7dc&bg_color=151515)](https://https://github.com/Sarvesh-SP/github-readme-stats/)
  <p align="center">
   <b>GitHub Visitors</b>
   <br>
