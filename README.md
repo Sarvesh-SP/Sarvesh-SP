@@ -48,7 +48,7 @@ const aboutMe = {
       version_control: ["Git"],
       api_testing: ["POSTMan"],
       web_hosting: ["Heroku", "Github Pages", "Netlify", "nameCheap"],
-      editors: ["VSCode", "VIM", "Sublime Text", "Intellij", "Atom"],
+      editors: ["VSCode", "VIM", "Sublime Text", "Intellij", "Atom", "RunJS"],
       design: ["Figma", "Adobe Illustrator", "Adobe XD"] 
    },
    current_occupation: ["Third year student", "Contributing to Open source", "Learning new technologies"],
