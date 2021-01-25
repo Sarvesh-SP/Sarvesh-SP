@@ -56,7 +56,7 @@ const aboutMe = {
 };
 ```
 <p>
-<img alt="GIF" src="https://github.com/adithyapaib/adithyapaib/blob/master/code.gif?raw=true" width="400" height="256" />
+<img alt="GIF" src="code.gif?raw=true" width="400" height="256" />
 </p>
 <br>
 
