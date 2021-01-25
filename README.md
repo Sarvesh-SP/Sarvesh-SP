@@ -60,15 +60,11 @@ const aboutMe = {
 </p>
 <br>
 
-### Profile Stats:
-<table width="100%">
-  <tr>
-    <td>
-<img height="180em" src="https://github-readme-stats-ks15temi6.vercel.app/api?username=Sarvesh-SP&show_icons=true&include_all_commits=true&count_private=truehide_border=true&theme=react" /> </td>
- <td> <img height="180em" src="https://github-readme-stats-ks15temi6.vercel.app/api/top-langs/?username=Sarvesh-SP&hide_border=true&layout=compact&langs_count=8&theme=react" /> </td>
-  </tr>
- <table>
-  
+
+  Profile stats              |  Language Contribution
+:-------------------------:|:-------------------------:
+![Sarvesh-SP :: Profile Stats](https://github-readme-stats-ks15temi6.vercel.app/api?username=Sarvesh-SP&count_private=true&show_icons=true&theme=dark) | ![Sarvesh-SP :: Top Langs](https://github-readme-stats-ks15temi6.vercel.app/api/top-langs/?username=Sarvesh-SP&langs_count=10&theme=tokyonight&layout=compact&hide=html)
+
 
 
  <p align="center">
