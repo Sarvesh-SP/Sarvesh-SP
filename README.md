@@ -64,8 +64,8 @@ const aboutMe = {
 <table width="100%">
   <tr>
     <td>
-<img height="180em" src="https://github-readme-stats-ks15temi6.vercel.app/api?username=Sarvesh-SP&show_icons=true&include_all_commits=true&count_private=true&bg_color=0,000000,130F40&hide_border=true&theme=react" /> </td>
- <td> <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sarvesh-SP&hide_border=true&layout=compact&langs_count=8&bg_color=0,000000,130F40&theme=react" /> </td>
+<img height="180em" src="https://github-readme-stats-ks15temi6.vercel.app/api?username=Sarvesh-SP&show_icons=true&include_all_commits=true&count_private=truehide_border=true&theme=react" /> </td>
+ <td> <img height="180em" src="https://github-readme-stats-ks15temi6.vercel.app/api/top-langs/?username=Sarvesh-SP&hide_border=true&layout=compact&langs_count=8&theme=react" /> </td>
   </tr>
  <table>
   
