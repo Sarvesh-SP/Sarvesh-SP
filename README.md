@@ -55,11 +55,10 @@ const aboutMe = {
 
 };
 ```
-<p>
-<img alt="GIF" src="code.gif?raw=true" width="400" height="256" />
-</p>
-<br>
-
+<table><tr>
+<td> <img alt="GIF" src="code.gif?raw=true" width="400" height="256" />  </td>
+<td> <img alt="GIF" src="code.gif?raw=true" width="400" height="256" />  </td>
+</tr></table>
 
   Profile stats              |  Language Contribution
 :-------------------------:|:-------------------------:
