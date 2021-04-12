@@ -64,9 +64,15 @@ const aboutMe = {
 :-------------------------:|:-------------------------:
 ![Sarvesh-SP :: Profile Stats](https://github-readme-stats-ks15temi6.vercel.app/api?username=Sarvesh-SP&count_private=true&show_icons=true&theme=dark) | ![Sarvesh-SP :: Top Langs](https://github-readme-stats-ks15temi6.vercel.app/api/top-langs/?username=Sarvesh-SP&langs_count=8&theme=react&layout=compact&hide=html)
 
+<!-- GitHub Readme Streak Stats - https://github.com/DenverCoder1/github-readme-streak-stats -->
+<p align="center">
+  <a href="https://github.com/DenverCoder1/github-readme-streak-stats">
+    <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="DenverCoder1's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=Sarvesh-SP&theme=black-ice&hide_border=true&stroke=0000&background=0D1117&ring=60D9FA&fire=60D9FA&currStreakLabel=60D9FA"/>
+  </a>
+ </p>
 
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Sarvesh-SP&theme=highcontrast&hide_border=true&fire=0E82DD)](https://git.io/streak-stats)
- <br/>
+
+<br>
  <p align="center">
   <b>GitHub Visitors</b>
   <br>
