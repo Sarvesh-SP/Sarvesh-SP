@@ -65,11 +65,7 @@ const aboutMe = {
 ![Sarvesh-SP :: Profile Stats](https://github-readme-stats-ks15temi6.vercel.app/api?username=Sarvesh-SP&count_private=true&show_icons=true&theme=dark) | ![Sarvesh-SP :: Top Langs](https://github-readme-stats-ks15temi6.vercel.app/api/top-langs/?username=Sarvesh-SP&langs_count=8&theme=react&layout=compact&hide=html)
 
 
- <p align="center">
-  <a href="https://git.io/streak-stats">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=Sarvesh-SP&theme=dark&hide_border=true&background=0D1117&stroke=0000&fire=178CDD"/>
-    
-  </a>
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Sarvesh-SP&theme=highcontrast&hide_border=true&fire=0E82DD)](https://git.io/streak-stats)
  <br/>
  <p align="center">
   <b>GitHub Visitors</b>
