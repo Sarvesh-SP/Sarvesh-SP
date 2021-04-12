@@ -67,7 +67,7 @@ const aboutMe = {
 
  <p align="center">
   <a href="https://git.io/streak-stats">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=Sarvesh-SP&theme=dark&hide_border=false&background=0D1117&stroke=0000&fire=178CDD"/>
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=Sarvesh-SP&theme=dark&hide_border=true&background=0D1117&stroke=0000&fire=178CDD"/>
     
   </a>
  <br/>
