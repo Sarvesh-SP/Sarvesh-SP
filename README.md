@@ -22,39 +22,7 @@ Here are some ideas to get you started:
 <h2 align="center">A little about me</h2>
 <p><em>A third year undergrad student at <a href="https://sode-edu.in/">SMVITM</a>, majoring in Computer Science and Engineering.</br>
 </em></p>
-<h2 align="center">Detail of my current knowledge</h2>
 
-```javascript
-const aboutMe = {
-    pronouns: "He" | "Him",
-    askMeAbout: ["web dev", "tech", "gamez"],
-    languages: ["Python", "Sass", "C++", "C", "Java", "Tcl", "AWK", "Dart"],
-    technologies: {
-        frontEnd: {
-            ui: ["React"],
-            linter: ["eslint"],
-            js: ["Vue", "Angular"],
-            css: ["bootstrap", "sass"]
-        },
-        backEnd: ["Java", "Python"],
-        databases: ["Postgres", "MySql", "oracle"],
-    },
-    tools: {
-      devops:{
-          paas: ["docker"],
-          ci_cd': ["Github Actions"],
-      },
-      code_hosting: ["Github"],
-      version_control: ["Git"],
-      api_testing: ["POSTMan"],
-      web_hosting: ["Heroku", "Github Pages", "Netlify", "nameCheap"],
-      editors: ["VSCode", "VIM", "Sublime Text", "Intellij", "Atom", "RunJS"],
-      design: ["Figma", "Adobe Illustrator", "Adobe XD"] 
-   },
-   current_occupation: ["Third year student", "Contributing to Open source", "Learning new technologies"],
-
-};
-```
 <table><tr>
 <td> <img alt="GIF" src="code.gif?raw=true" width="400" height="256" />  </td>
 <td> <img alt="GIF" src="anime.png?raw=true" width="400" height="256" />  </td>
