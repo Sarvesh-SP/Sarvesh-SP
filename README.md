@@ -38,8 +38,10 @@ Here are some ideas to get you started:
     <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="DenverCoder1's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=Sarvesh-SP&theme=black-ice&hide_border=true&stroke=0000&background=0D1117&ring=60D9FA&fire=60D9FA&currStreakLabel=60D9FA"/>
   </a>
  </p>
-
-
+<p align="center">
+  <a href="https://github.com/Sarvesh-SP">
+      <img alt="followers" title="Follow me on Github" src="https://img.shields.io/github/followers/Sarvesh-SP?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=Follow"/></a>
+</p>
 <br>
  <p align="center">
   <b>GitHub Visitors</b>
