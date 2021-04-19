@@ -28,9 +28,15 @@ Here are some ideas to get you started:
 <td> <img alt="GIF" src="anime.png?raw=true" width="400" height="256" />  </td>
 </tr></table>
 
+## 📊 Github stats
+
+<details>
+  <summary>💻 GitHub Profile Stats</summary>
+
   Profile stats              |  Language Contribution
 :-------------------------:|:-------------------------:
 ![Sarvesh-SP :: Profile Stats](https://github-readme-stats-ks15temi6.vercel.app/api?username=Sarvesh-SP&count_private=true&show_icons=true&theme=dark) | ![Sarvesh-SP :: Top Langs](https://github-readme-stats-ks15temi6.vercel.app/api/top-langs/?username=Sarvesh-SP&langs_count=10&theme=react&layout=compact&hide=html)
+</details>
 
 <!-- GitHub Readme Streak Stats - https://github.com/DenverCoder1/github-readme-streak-stats -->
 <p align="center">
