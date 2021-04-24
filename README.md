@@ -32,6 +32,7 @@ Here are some ideas to get you started:
 ## 📊 Github stats
 
 <details>
+  <br>
   <summary>💻 GitHub Profile Stats</summary>
 
   Profile stats              |  Language Contribution
