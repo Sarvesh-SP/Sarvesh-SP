@@ -48,10 +48,17 @@ Here are some ideas to get you started:
     <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="DenverCoder1's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=Sarvesh-SP&theme=black-ice&hide_border=true&stroke=0000&background=0D1117&ring=60D9FA&fire=60D9FA&currStreakLabel=60D9FA"/>
   </a>
  </p>
- 
-<!-- https://github.com/ashutosh00710/github-readme-activity-graph -->
-<a href="https://github.com/ashutosh00710/github-readme-activity-graph"><img alt="sarveshSP's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=Sarvesh-SP&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" /></a>
 
+<!-- https://github.com/ashutosh00710/github-readme-activity-graph -->
+<!--
+<a href="https://github.com/ashutosh00710/github-readme-activity-graph"><img alt="sarveshSP's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=Sarvesh-SP&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" /></a>
+-->
+
+<p align="center">
+<a href="https://github.com/Ashutosh00710/github-readme-activity-graph">
+ <img src="https://activity-graph.herokuapp.com/graph?username=Sarvesh-SP&theme=react-dark&area=true&hide_border=true" width="100%">
+</a>
+</p>
 
 <details>
 <summary>Detailed Summary</summary>
