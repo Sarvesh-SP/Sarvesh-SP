@@ -38,7 +38,7 @@ Here are some ideas to get you started:
 
   Profile stats              |  Language Contribution
 :-------------------------:|:-------------------------:
-![Sarvesh-SP :: Profile Stats](https://github-readme-stats-ks15temi6.vercel.app/api?username=Sarvesh-SP&count_private=true&show_icons=true&theme=dark) | ![Sarvesh-SP :: Top Langs](https://github-readme-stats-ks15temi6.vercel.app/api/top-langs/?username=Sarvesh-SP&langs_count=10&theme=react&layout=compact&hide=html)
+![Sarvesh-SP :: Profile Stats](https://github-readme-stats.vercel.app/api?username=Sarvesh-SP&show_icons=true&hide_border=true&theme=react&count_private=true) | ![Sarvesh-SP :: Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Sarvesh-SP&layout=compact&theme=react&hide_border=true)
 
 ![sarveshSP's Contribution Stats](https://github-contribution-stats.vercel.app/api/?username=Sarvesh-SP)
 </details>
