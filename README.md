@@ -26,7 +26,7 @@ Here are some ideas to get you started:
 ```json
 {
   "bio": "smvitm cs '22 // co-pres @fossasia",
-  "location": "karnataka, India",
+  "location": "Udupi, Karnataka",
   "name": "Sarvesh SP"
  }
 ```
