@@ -24,8 +24,8 @@ Here are some ideas to get you started:
 </em></p>
 
 
-<td> <img alt="GIF" src="code.gif?raw=true" width="400" height="256" />  </td>
 <!--
+<td> <img alt="GIF" src="code.gif?raw=true" width="400" height="256" />  </td>
 <table><tr>
 <td> <img alt="GIF" src="anime.png?raw=true" width="400" height="256" />  </td> 
 </tr></table> -->
@@ -41,6 +41,12 @@ Here are some ideas to get you started:
 ![Sarvesh-SP :: Profile Stats](https://github-readme-stats.vercel.app/api?username=Sarvesh-SP&show_icons=true&hide_border=true&theme=react&count_private=true) | ![Sarvesh-SP :: Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Sarvesh-SP&layout=compact&theme=react&hide_border=true)
 
 ![sarveshSP's Contribution Stats](https://github-contribution-stats.vercel.app/api/?username=Sarvesh-SP)
+  
+<p align="center">
+<a href="https://github.com/Ashutosh00710/github-readme-activity-graph">
+ <img src="https://activity-graph.herokuapp.com/graph?username=Sarvesh-SP&theme=react-dark&area=true&hide_border=true" width="100%">
+</a>
+</p>
 </details>
 
 <!-- GitHub Readme Streak Stats - https://github.com/DenverCoder1/github-readme-streak-stats -->
@@ -54,12 +60,6 @@ Here are some ideas to get you started:
 <!--
 <a href="https://github.com/ashutosh00710/github-readme-activity-graph"><img alt="sarveshSP's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=Sarvesh-SP&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" /></a>
 -->
-
-<p align="center">
-<a href="https://github.com/Ashutosh00710/github-readme-activity-graph">
- <img src="https://activity-graph.herokuapp.com/graph?username=Sarvesh-SP&theme=react-dark&area=true&hide_border=true" width="100%">
-</a>
-</p>
 
 <details>
 <summary>Detailed Summary</summary>
