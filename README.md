@@ -23,6 +23,11 @@ Here are some ideas to get you started:
 <p><em>A third year undergrad student at <a href="https://sode-edu.in/">SMVITM</a>, majoring in Computer Science and Engineering.</br>
 </em></p>
 
+{
+  "bio": "smvitm cs '22 // co-pres @fossasia",
+  "location": "karnataka, India",
+  "name": "Sarvesh SP"
+ }
 
 <!--
 <td> <img alt="GIF" src="code.gif?raw=true" width="400" height="256" />  </td>
