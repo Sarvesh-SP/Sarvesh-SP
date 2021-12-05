@@ -1,10 +1,11 @@
 <meta property="og:description" content="Sarvesh SP is a Front-End Developer from Udupi, India. Sarvesh is currenty pursuing his BE in Computer Science. Feel free to contact Sarvesh" />
 <meta name="Keywords" content="sarvesh sp sarveshsp Sarvesh Sarveshsp SARVESHSP SARVESH sarveshsp spsarvesh sarveshsp.com www.sarveshsp.com"/>
 
-### Hi there,Sarvesh here!<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
+
 
 
 <!--
+### Hi there,Sarvesh here!<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 **Sarvesh-SP/Sarvesh-SP** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
@@ -17,11 +18,12 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
-
 <h2 align="center">A little about me</h2>
 <p><em>A third year undergrad student at <a href="https://sode-edu.in/">SMVITM</a>, majoring in Computer Science and Engineering.</br>
 </em></p>
+-->
+
+
 
 ```json
 {
